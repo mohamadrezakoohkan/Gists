@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "category": "Sponsor",
+            "title": "Snowflake Vs Firebolt recent POC results - look at these numbers! (Sponsor)",
+            "subTitle": "We ran 5 queries that were previously run on Snowflake. The results were great - huge performance gains over smaller and cheaper clusters, over 48X improvement. Enter to see the numbers and read the full story.",
+            "link": "https://hi.firebolt.io/lp/firebolt-vs-snowflake-benchmark?utm_source=tldr&utm_medium=cpc&utm-campaign=tldr_spons",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Big Tech & Startups",
+            "title": "Facebook Working on Smart Watch to Compete With Apple Watch (2 minute read)",
+            "subTitle": "Facebook is working on a smart watch that will work without a tethered smartphone. Wearers will be able to use it to send messages with Facebook services over a cellular connection. It will have health features like options to track workouts and the ability to connect to services provided by companies like Peloton. Facebook aims to launch the smart watch next year, with a second-generation planned for as soon as 2023.",
+            "link": "https://www.macrumors.com/2021/02/12/facebook-developing-smart-watch/?utm_source=tldrnewsletter",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Big Tech & Startups",
+            "title": "Facebook’s underground obituary pages (8 minute read)",
+            "subTitle": "In Brazil, Facebook groups that feature profiles of dead people have gained popularity, with some groups growing to more than 160,000 users. While these groups may appear macabre, they are complex spaces where people process loss. The posts in these groups usually follow a standard format, with a link of the deceased person’s profile and a description of the person. Brazil has experienced the world's second-deadliest Covid-19 outbreak, and over 200,000 people have died.",
+            "link": "https://restofworld.org/2021/facebooks-underground-obituary-pages/?utm_source=tldrnewsletter",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Science & Futuristic Technology",
+            "title": "Thought-detection: AI has infiltrated our last bastion of privacy (5 minute read)",
+            "subTitle": "Researchers from London have developed a deep neural network that can determine a person's emotional state by analyzing wireless signals. The technique involves sending radio signals towards targets and measuring them when they bounce back. These waves reveal information about an individual's heart and breathing rates, and then an algorithm is used to determine one of four basic emotion types. The technology can be applied to existing systems, such as Wi-Fi routers. It can be used to determine emotional changes in a crowd.",
+            "link": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/?utm_source=tldrnewsletter",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Science & Futuristic Technology",
+            "title": "A Cure for Baldness May Lie in Engineering Stem-Cells That Regenerate (2 minute read)",
+            "subTitle": "Scientists in Japan have made an important breakthrough when working on ways to regenerate lost hair from stem cells. Mammalian hair develops in a cyclical process where it grows, falls out, and grows again. By using a special cultured medium, the researchers were able to grow mice fur and whiskers that could recycle themselves. 81% of hair follicles grown in the medium went through at least three hair cycles. The next step in the research is to run clinical trials with humans.",
+            "link": "https://interestingengineering.com/a-cure-for-baldness-may-lie-in-engineering-stem-cells-that-regenerate?utm_source=tldrnewsletter",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Programming, Design & Data Science",
+            "title": "SVG Repo (Website)",
+            "subTitle": "This site contains over 300,000 SVG vectors and icons. An ML-powered search is available. Most icons and vectors can be used for commercial projects without any royalties.",
+            "link": "https://www.svgrepo.com/",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Programming, Design & Data Science",
+            "title": "How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020 (10 minute read)",
+            "subTitle": "This post discusses how Spotify optimized and sped up elements for its largest Dataflow Job for Wrapped 2020 using a technique called Sort Merge Bucket (SMB) join. SMB is an optimization that reduces shuffle by doing work upfront on the producer side. By adopting SMB, Spotify was able to perform extremely large joins that were previously impossible. SMB allowed Spotify to save on costs and opened up more ways for the company to optimize its workflows.",
+            "link": "https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/?utm_source=tldrnewsletter",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Miscellaneous",
+            "title": "In Nevada desert, a technology firm aims to be a government (4 minute read)",
+            "subTitle": "Jeffrey Berns, CEO of Blockchains LLC, wants the Nevada government to allow companies like his to form local governments on land they own, granting them power over everything from schools to law enforcement. Berns envisions a city based on digital currencies and blockchain storage. His company is proposing to build a 15,000 home town 12 miles east of Reno. Nevada Lawmakers have responded with intrigue and skepticism. The proposed legislation has yet to be formally filed or discussed in public hearings.",
+            "link": "https://lasvegassun.com/news/2021/feb/14/in-nevada-desert-a-technology-firm-aims-to-be-a-go/?utm_source=tldrnewsletter",
+            "date": "2021-02-15"
+        },
+        {
+            "category": "Miscellaneous",
+            "title": "A company that makes $600,000 prefab smart homes got so popular in 2020 it had to turn away customers (4 minute read)",
+            "subTitle": "The Passive House LivingHomes is a line of three environmentally friendly homes by Plant Prefab, a prefab home maker. Plant Prefab's homes have a fresh air system, efficient water heaters, heat recovery ventilators, insulation, and strong windows and doors. Prefab homes have seen increased interest since the start of the pandemic. Plant Prefab had to start turning away business at one point last year due to overwhelming interest. Images and descriptions of Plant Prefab's three homes are available in the article.",
+            "link": "https://markets.businessinsider.com/news/stocks/plant-prefabs-3-eco-friendly-passive-house-livinghomes-for-families-2021-2-1030080316?utm_source=tldrnewsletter",
+            "date": "2021-02-15"
+        },
+        {
             "category": "Big Tech & Startups",
             "title": "First Apple TV+ AR app launches with 'For All Mankind' backstory through mixed reality (3 minute read) ",
             "subTitle": "'For All Mankind: Time Capsule' is now out on the iOS App Store. The augmented reality experience was built using Apple's ARKit framework. It includes exclusive experiences for the latest iPad Pro, iPhone 12 Pro, and iPhone 12 Pro Max. The app lets users interact with virtual objects through the lens of their devices. It adds on to the story in-between seasons of For All Mankind, but knowledge of the series isn't required to enjoy the app. A short ad for Time Capsule is available in the article.",
